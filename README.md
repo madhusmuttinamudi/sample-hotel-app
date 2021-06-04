@@ -11,3 +11,6 @@ sample hotel app
 ![room_10](https://user-images.githubusercontent.com/47109312/120850279-d7b92980-c594-11eb-8917-8a50200f218b.jpg)
 ![the_paradise_bg](https://user-images.githubusercontent.com/47109312/120850285-da1b8380-c594-11eb-9bf4-1d22a2dc0158.jpg)
 ![room_8](https://user-images.githubusercontent.com/47109312/120850260-d12ab200-c594-11eb-8990-5b46346321cc.jpg)
+![room_4](https://user-images.githubusercontent.com/47109312/120850652-5746f880-c595-11eb-83cc-3f57fcfc559e.jpg)
+![room_5](https://user-images.githubusercontent.com/47109312/120850660-58782580-c595-11eb-801a-e6408d1ae6ea.jpg)
+![room_9](https://user-images.githubusercontent.com/47109312/120850676-5c0bac80-c595-11eb-83ec-c7ab8d6aaca3.jpg)
